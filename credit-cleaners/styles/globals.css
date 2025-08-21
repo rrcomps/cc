@@ -1,9 +1,0 @@
-@import "tailwindcss";
-
-html, body { height: 100%; }
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
-
-/* (optional but nice) */
-html, body, #__next { height: 100%; }
